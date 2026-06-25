@@ -1,0 +1,96 @@
+{
+    "fileVersion": 0,
+    "serverMaxRevisionCounter": 54,
+    "sourceMembers": {
+        "CustomField__Opportunity.Test_Checkbox_1__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 45,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Opportunity-Opportunity (Marketing) Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 46,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Opportunity-Opportunity (Sales) Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 47,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Opportunity-Opportunity (Support) Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 48,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Opportunity-Opportunity Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 49,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.Test_Checkbox_1__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 1,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Contact-Contact (Marketing) Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 8,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Contact-Contact (Sales) Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Contact-Contact (Support) Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Contact-Contact Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 50,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.Test_Checkbox_2__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 7,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ExternalCredential__ALMDevOpsCenterHub": {
+            "memberType": "ExternalCredential",
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "NamedCredential__ALMDevOpsCenterHub": {
+            "memberType": "NamedCredential",
+            "serverRevisionCounter": 54,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "PermissionSet__AccessDevOpsCenterNamedCredentials": {
+            "memberType": "PermissionSet",
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        }
+    }
+}
